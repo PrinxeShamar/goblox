@@ -2,7 +2,7 @@ package model
 
 import (
 	//"fmt"
-	"roblox/instance"
+	"goblox/instance"
 )
 
 type Model struct {

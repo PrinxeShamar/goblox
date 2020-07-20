@@ -2,8 +2,8 @@ package data_model
 
 import (
 	"fmt"
-	"roblox/instance"
-	"roblox/services/workspace"
+	"goblox/instance"
+	"goblox/services/workspace"
 	"strings"
 )
 

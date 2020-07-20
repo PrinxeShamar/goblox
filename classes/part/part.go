@@ -2,8 +2,8 @@ package part
 
 import (
 	//"fmt"
-	"roblox/instance"
-	"roblox/data_types/vector2"
+	"goblox/instance"
+	"goblox/data_types/vector2"
 )
 
 type Part struct {

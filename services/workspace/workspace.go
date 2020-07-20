@@ -2,7 +2,7 @@ package workspace
 
 import (
 	//"fmt"
-	"roblox/instance"
+	"goblox/instance"
 )
 
 type Workspace struct {

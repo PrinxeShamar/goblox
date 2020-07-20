@@ -2,7 +2,7 @@ package folder
 
 import (
 	//"fmt"
-	"roblox/instance"
+	"goblox/instance"
 )
 
 type Folder struct {
